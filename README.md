@@ -1,6 +1,6 @@
 # PB560
 
-Medtronic PB560 Ventilator System – Release 1.0
+Medtronic PB560 Ventilator System – Release 1.0 
 Includes:
 
 * Electrical schematics
@@ -9,7 +9,7 @@ Includes:
 * Requirements documents
 * Permissive license
 
-Medtronic PB560 Ventilator System – Release 2.0
+Medtronic PB560 Ventilator System – Release 2.0 
 Includes:
 
 * Manufacturing fixtures
@@ -18,14 +18,13 @@ Includes:
 * Mechanical part drawings
 * Permissive license
 
-Medtronic PB560 Ventilator System – Release 3.0
-
+Medtronic PB560 Ventilator System – Release 3.0 
 Includes:
 
 * Source code files
 * Permissive license
 
-Medtronic PB560 Ventilator System – Release 4.0
+Medtronic PB560 Ventilator System – Release 4.0 
 Includes:
 
 * Accessories
